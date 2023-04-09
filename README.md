@@ -28,7 +28,7 @@ Happy randomizing! 🎮🧟
 
 ## Are You a Streamer?
 
-If you're streaming a randomized session on Twitch, I'd be delighted to watch. 
+If you're streaming a randomized session on Twitch or Youtube, I'd be delighted to watch. 
 Please feel free to contact and invite me: https://hansrandomizer.github.io/
 
 # DISCLAIMER
