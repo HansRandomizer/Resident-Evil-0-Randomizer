@@ -1,13 +1,18 @@
+
 # 🧟 Resident Evil 0 Randomizer 🧟
 
 Welcome to the Resident Evil 0 Randomizer, a set of tools designed to spice up your gameplay experience in Resident Evil 0! 
 This randomizer is compatible with the **legal Steam version only**. It won't modify your game files or executables.
 
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/130005214/230778106-bb002143-1225-449f-a585-87d5db97cc1f.png">
+</p>
+
 ## Configuration
 
 1. Run the `Configurator` to create a randomizer configuration.
-2. Customize your experience: randomize ink ribbons, make specific boss fights optional, and more.
-3. Set your preferences for randomized items – want more herbs or ammo? You got it!
+2. I added some __useful options__, like to "don't randomize ink ribbons", check them out.
+3. Set your preferences for randomized items – choose from __multiple randomization modes__ to control which random items you prefer.
 
 ## Usage
 
@@ -18,9 +23,8 @@ This randomizer is compatible with the **legal Steam version only**. It won't mo
 
 Happy randomizing! 🎮🧟
 
-If you are streaming randomized session on twitch, I'd love to watch. 
-Feel free to contact and invite me: https://hansrandomizer.github.io/
-
+If you're streaming a randomized session on Twitch, I'd be delighted to watch. 
+Please feel free to contact and invite me: https://hansrandomizer.github.io/
 
 # DISCLAIMER
 
