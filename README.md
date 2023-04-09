@@ -11,7 +11,7 @@ This randomizer is compatible with the **legal Steam version only**. It won't mo
 ## Configuration
 
 1. Run the `Configurator` to create a randomizer configuration.
-2. I added some __useful options__, like to "don't randomize ink ribbons", check them out.
+2. I added (very few...) __useful options__, like excluding ink ribbons from randomization.
 3. Set your preferences for randomized items – choose from __multiple randomization modes__ to control which random items you prefer.
 <p align="center">
    <img src="https://user-images.githubusercontent.com/130005214/230778985-81d60c5b-57ab-4345-9a5c-f59b15ae0bb2.jpg">
