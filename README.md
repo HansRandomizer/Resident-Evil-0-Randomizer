@@ -23,6 +23,8 @@ This randomizer is compatible with the **legal Steam version only**. It won't mo
 
 Happy randomizing! 🎮🧟
 
+## Are You a Streamer?
+
 If you're streaming a randomized session on Twitch, I'd be delighted to watch. 
 Please feel free to contact and invite me: https://hansrandomizer.github.io/
 
