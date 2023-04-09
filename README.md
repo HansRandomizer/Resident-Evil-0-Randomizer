@@ -16,6 +16,7 @@ This randomizer is compatible with the **legal Steam version only**. It won't mo
 <p align="center">
    <img src="https://user-images.githubusercontent.com/130005214/230778985-81d60c5b-57ab-4345-9a5c-f59b15ae0bb2.jpg">
 </p>
+
 ## Usage
 
 1. Create a configuration and select a working directory.
