@@ -31,6 +31,13 @@ Happy randomizing! 🎮🧟
 If you're streaming a randomized session on Twitch or Youtube, I'd be delighted to watch. 
 Please feel free to contact and invite me: https://hansrandomizer.github.io/
 
+## Known Issues and Features in Development
+
+- The Balanced mode is currently too random and doesn't effectively balance gameplay. I am working on a fix.
+- The stack count doesn't update when an item is randomized (for example, 1 First Aid Kit turns into 1 bullet). I'll be correcting this soon.
+- Occasionally, when dropping items from the item menu, stack count issues may arise if there's an original game item of the same type.
+- In a case where many items are dropped at once, some items were lost. I am addressing this issue.
+
 # DISCLAIMER
 
 You use this software at your own risk.
