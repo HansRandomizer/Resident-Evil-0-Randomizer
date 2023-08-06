@@ -41,6 +41,7 @@ Please feel free to contact and invite me: https://hansrandomizer.github.io/
 
 ## AntiVir False Positives
 This randomizer is based on the popular open source development software Cheat Engine, which can trigger false positive anti virus alerts.
+See: https://github.com/HansRandomizer/Resident-Evil-0-Randomizer/issues/4#issuecomment-1666964788
 
 # DISCLAIMER
 
