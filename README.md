@@ -37,8 +37,10 @@ Please feel free to contact and invite me: https://hansrandomizer.github.io/
 - The stack count doesn't update when an item is randomized (for example, 1 First Aid Kit turns into 1 bullet). I'll be correcting this soon.
 - Occasionally, when dropping items from the item menu, stack count issues may arise if there's an original game item of the same type.
 - In a case where many items are dropped at once, some items were lost. I am addressing this issue.
-
 - User NeoSyther figured out, that you should not use the lift after you unlocked the kitchen with the "Fire Key". Fixes and workarounds are under dicussion. For more infos see Issue 3.
+
+## AntiVir False Positives
+This randomizer is based on the popular open source development software Cheat Engine, which can trigger false positive anti virus alerts.
 
 # DISCLAIMER
 
