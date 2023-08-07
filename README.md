@@ -33,10 +33,16 @@ Please feel free to contact and invite me: https://hansrandomizer.github.io/
 
 ## Known Issues and Features in Development
 
-- The Balanced mode is currently too random and doesn't effectively balance gameplay. *A fix has been created and will be released soon*.
-- The stack count doesn't update when an item is randomized (for example, 1 First Aid Kit turns into 1 bullet). I'll be correcting this soon.
-- Occasionally, when dropping items from the item menu, stack count issues may arise if there's an original game item of the same type.
-- In a case where many items are dropped at once, some items were lost. I am addressing this issue.
+- The **Balanced mode** is currently too random and doesn't effectively balance gameplay. **FIXED IN 1.0.2**
+- The **stack count** doesn't update when an item is randomized (for example, 1 First Aid Kit turns into 1 bullet). **FIXED IN 1.0.2**
+
+  
+- Issues with stack cound may arise when two items of the same type are placed in the same a room. **Be careful when dropping and picking up again, until I provide a fix**
+  
+- In a case where many items are dropped at once, some items were lost. I am addressing this issue. **Don't drop too many items at once, until I provide a fix**
+
+
+## Soft Lock Warnings and Crashes
 - User NeoSyther figured out, that you should not use the lift after you unlocked the kitchen with the "Fire Key". Fixes and workarounds are under dicussion. For more infos see Issue 3.
 
 ## AntiVir False Positives
