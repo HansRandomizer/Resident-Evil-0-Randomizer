@@ -26,6 +26,9 @@ This randomizer is compatible with the **legal Steam version only**. It won't mo
 
 Happy randomizing! 🎮🧟
 
+## Please Report Crashes
+Help me to make this randomizer more stable. Report crashes and send me the init.json files with a copy of your randomizer log that appears for every run when you start randomizing. 
+
 ## Are You a Streamer?
 
 If you're streaming a randomized session on Twitch or Youtube, I'd be delighted to watch. 
