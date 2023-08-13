@@ -46,7 +46,7 @@ Help me to make this randomizer more stable. Report crashes and send me the init
 - Enhancing item drop mechanism (backlog)
 
 ## Soft Lock Warnings and Crashes
-- User NeoSyther figured out, that you should not use the lift after you unlocked the kitchen with the "Fire Key". Fixes and workarounds are under dicussion. For more infos see Issue 3.
+- User NeoSyther figured out, that you should not use the lift after you unlocked the kitchen with the "Fire Key". Fixes and workarounds are under dicussion. For more infos see Issue #3.
 
 ## AntiVir False Positives
 This randomizer is based on the popular open source development software Cheat Engine, which can trigger false positive anti virus alerts.
