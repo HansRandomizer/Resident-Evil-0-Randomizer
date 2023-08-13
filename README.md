@@ -29,21 +29,21 @@ Happy randomizing! 🎮🧟
 ## Please Report Crashes
 Help me to make this randomizer more stable. Report crashes and send me the init.json files with a copy of your randomizer log that appears for every run when you start randomizing. 
 
-## Are You a Streamer?
 
-If you're streaming a randomized session on Twitch or Youtube, I'd be delighted to watch. 
-Please feel free to contact and invite me: https://hansrandomizer.github.io/
+## Known Issues
 
-## Known Issues and Features in Development
+- The **Balanced mode** was **FIXED IN 1.0.2**
+- The **stack count** issue was **FIXED IN 1.0.2**
 
-- The **Balanced mode** is currently too random and doesn't effectively balance gameplay. **FIXED IN 1.0.2**
-- The **stack count** doesn't update when an item is randomized (for example, 1 First Aid Kit turns into 1 bullet). **FIXED IN 1.0.2**
-
-  
-- Issues with stack cound may arise when two items of the same type are placed in the same a room. **Be careful when dropping and picking up again, until I provide a fix**
-  
+- Issues with stack cound may arise when two items of the same type are placed in the same room. **Be careful when dropping and picking up again, until I provide a fix**
 - In a case where many items are dropped at once, some items were lost. I am addressing this issue. **Don't drop too many items at once, until I provide a fix**
+- Other modes than Balanced Mode need improvement. **I recommend using balanced mode for maximum fun.**
 
+# Development and Upcoming Features
+- Enemy randomization (in progress)
+- Improving modes (backlog)
+- Adding more options to the Configurator (backlog)
+- Enhancing item drop mechanism (backlog)
 
 ## Soft Lock Warnings and Crashes
 - User NeoSyther figured out, that you should not use the lift after you unlocked the kitchen with the "Fire Key". Fixes and workarounds are under dicussion. For more infos see Issue 3.
