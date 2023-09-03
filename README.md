@@ -40,8 +40,8 @@ Help me to make this randomizer more stable. Report crashes and send me the init
 - Other modes than Balanced Mode need improvement. **I recommend using balanced mode for maximum fun.**
 
 # Development and Upcoming Features
-- Enemy randomization (in progress)
-- Improving modes (backlog)
+- Enemy randomization (coming soon)
+- Improving modes (coming soon)
 - Adding more options to the Configurator (backlog)
 - Enhancing item drop mechanism (backlog)
 
