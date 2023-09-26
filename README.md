@@ -13,14 +13,14 @@ Randomize items and enemies with this Resident Evil Zero randomizer.
 2. I added (very few...) __useful options__, like excluding ink ribbons from randomization.
 3. Set your preferences for randomized items – choose from __multiple randomization modes__ to control which random items you prefer.
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/130005214/230778985-81d60c5b-57ab-4345-9a5c-f59b15ae0bb2.jpg">
+   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/130005214/270784867-1e60c548-1ef4-4b9c-8123-c86bd5a71177.png">
 </p>
 
 ## Usage
 
 1. Create a configuration and select a working directory. Also you can map every enemy you want (unless it's not possible for technical reasons ... it's complicated.)
 3. Start the game and also launch the Randomizer itself.
-4. Load your config and connect to the game (you just need to klick two buttons...).
+4. Load your config and connect to the game (you only need to click two buttons...).
 5. Now, just start or continue your randomized game and enjoy the chaos!
 
 Happy randomizing! 🎮🧟
