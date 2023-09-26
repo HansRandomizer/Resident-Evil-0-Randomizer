@@ -1,8 +1,7 @@
 
-# 🧟 Resident Evil 0 Randomizer 🧟
+# 🧟 Resident Evil 0 Item and Enemy Randomizer 🧟
 
-Welcome to the Resident Evil 0 Randomizer, a set of tools designed to spice up your gameplay experience in Resident Evil 0! 
-This randomizer is compatible with the **legal Steam version only**. It won't modify your game files or executables.
+Randomize items and enemies with this Resident Evil Zero randomizer.
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/130005214/230778106-bb002143-1225-449f-a585-87d5db97cc1f.png">
@@ -19,10 +18,10 @@ This randomizer is compatible with the **legal Steam version only**. It won't mo
 
 ## Usage
 
-1. Create a configuration and select a working directory.
-2. Start the game and also launch the Randomizer itself.
-3. Load your config and connect to the game.
-4. Now, just start or continue your randomized game and enjoy the new twists!
+1. Create a configuration and select a working directory. Also you can map every enemy you want (unless it's not possible for technical reasons ... it's complicated.)
+3. Start the game and also launch the Randomizer itself.
+4. Load your config and connect to the game (you just need to klick two buttons...).
+5. Now, just start or continue your randomized game and enjoy the chaos!
 
 Happy randomizing! 🎮🧟
 
@@ -32,15 +31,16 @@ Help me to make this randomizer more stable. Report crashes and send me the init
 
 ## Known Issues
 
+- The randomizer is often stuck in background when closing. Check your Task Manager and search for CheatEngine or the Resident Evil Randomizer.exe
 - The **Balanced mode** was **FIXED IN 1.0.2**
 - The **stack count** issue was **FIXED IN 1.0.2**
 
 - Issues with stack cound may arise when two items of the same type are placed in the same room. **Be careful when dropping and picking up again, until I provide a fix**
 - In a case where many items are dropped at once, some items were lost. I am addressing this issue. **Don't drop too many items at once, until I provide a fix**
-- Other modes than Balanced Mode need improvement. **I recommend using balanced mode for maximum fun.**
+
 
 # Development and Upcoming Features
-- Enemy randomization (coming soon)
+- **Enemy randomization is now available in 1.1.0**
 - Improving modes (coming soon)
 - Adding more options to the Configurator (backlog)
 - Enhancing item drop mechanism (backlog)
