@@ -41,7 +41,6 @@ Help me to make this randomizer more stable. Report crashes and send me the init
 
 # Development and Upcoming Features
 - **Enemy randomization is now available in 1.1.0**
-- Improving modes (coming soon)
 - Adding more options to the Configurator (backlog)
 - Enhancing item drop mechanism (backlog)
 
