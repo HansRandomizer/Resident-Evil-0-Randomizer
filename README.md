@@ -11,7 +11,7 @@ Randomize items and enemies with this Resident Evil Zero randomizer.
 
 1. Run the `Configurator` to create a randomizer configuration.
 2. I added (very few...) __useful options__, like excluding ink ribbons from randomization.
-3. Set your preferences for randomized items – choose from __multiple randomization modes__ to control which random items you prefer.
+3. Set your preferences for randomized items. You can increase stack size or activate "balanced" mode, which gives you a higher chance to get useful items.
 <p align="center">
    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/130005214/270784867-1e60c548-1ef4-4b9c-8123-c86bd5a71177.png">
 </p>
