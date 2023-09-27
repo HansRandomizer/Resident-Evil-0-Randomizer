@@ -16,9 +16,14 @@ Randomize items and enemies with this Resident Evil Zero randomizer.
    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/130005214/270784867-1e60c548-1ef4-4b9c-8123-c86bd5a71177.png">
 </p>
 
+**IMPORTANT NOTE ON ENEMY RANDOMIZATION!**
+TLDR: Remember to **hit the shuffle button!**
+
+In version 1.1.0, I made a slight oversight. **By default, all enemies are matched with their own kind**. To introduce variety and unpredictability, ensure to hit the shuffle button at least once or map the enemies manually. Enhance your gaming experience - don’t forget to shuffle!
+
 ## Usage
 
-1. Create a configuration and select a working directory. Also you can map every enemy you want (unless it's not possible for technical reasons ... it's complicated.)
+1. Create a configuration and select a working directory. Check the checkbox and click the shuffle button if you want to randomize enemies.
 3. Start the game and also launch the Randomizer itself.
 4. Load your config and connect to the game (you only need to click two buttons...).
 5. Now, just start or continue your randomized game and enjoy the chaos!
