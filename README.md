@@ -22,6 +22,7 @@ TLDR: Remember to **hit the shuffle button!**
 In version 1.1.0, I made a slight oversight. **By default, all enemies are matched with their own kind**. To introduce variety and unpredictability, ensure to hit the shuffle button at least once or map the enemies manually. Enhance your gaming experience - don’t forget to shuffle!
 
 ## Usage
+**Version 1.1.0 is not compatible with old save games or configurations.**
 
 1. Create a configuration and select a working directory. Check the checkbox and click the shuffle button if you want to randomize enemies.
 3. Start the game and also launch the Randomizer itself.
