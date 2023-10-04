@@ -35,7 +35,7 @@ Help me to make this randomizer more stable. Report crashes and send me the init
 
 
 ## Known Issues
-
+- **Assisted items option can cause freezes in version 1.1.0**
 - The randomizer is often stuck in background when closing. Check your Task Manager and search for CheatEngine or the Resident Evil Randomizer.exe
 - The **Balanced mode** was **FIXED IN 1.0.2**
 - The **stack count** issue was **FIXED IN 1.0.2**
