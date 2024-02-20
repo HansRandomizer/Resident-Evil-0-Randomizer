@@ -37,8 +37,8 @@ Help me to make this randomizer more stable. Report crashes and send me the init
 ## Known Issues
 - **Balanced Mode can cause freezes in version 1.1.0. RC with a fix is here but still in testing phase: https://github.com/HansRandomizer/Resident-Evil-0-Randomizer/releases/tag/1.1.1-RC**
 - When using the elevator to go up the floor in B1 there are four items (Magnum Ammo, Handgun Bullets, Reen Herb, Red Herb) which will freeze your game when being picked up. Fix is in progress.
+- There might be a bug that places Items in the labs which cannot be reached, will fix it soon
 - The randomizer is often stuck in background when closing. Check your Task Manager and search for CheatEngine or the Resident Evil Randomizer.exe
-- The **Balanced mode** was **FIXED IN 1.0.2**
 - The **stack count** issue was **FIXED IN 1.0.2**
 
 - Issues with stack cound may arise when two items of the same type are placed in the same room. **Be careful when dropping and picking up again, until I provide a fix**
